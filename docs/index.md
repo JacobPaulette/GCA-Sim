@@ -1,39 +1,12 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/JacobPaulette/GCA-Sim/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+![3-cycle DRCA](https://raw.githubusercontent.com/JacobPaulette/GCA-Sim/master/uploads/DRCA-3.webm)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![4-cycle DRCA](https://raw.githubusercontent.com/JacobPaulette/GCA-Sim/master/uploads/DRCA-4.webm)
 
-### Markdown
+![8-cycle DRCA](https://raw.githubusercontent.com/JacobPaulette/GCA-Sim/master/uploads/DRCA-8.webm)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![karate social graph](https://raw.githubusercontent.com/JacobPaulette/GCA-Sim/master/uploads/karate.webm)
 
-```markdown
-Syntax highlighted code block
+![Logistic CML](https://raw.githubusercontent.com/JacobPaulette/GCA-Sim/master/uploads/LogCML_1.webm)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-![Image](https://github.com/JacobPaulette/GGCA-Sim/master/uploads/DRCA-3.webm)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JacobPaulette/GCA-Sim/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Convection](https://raw.githubusercontent.com/JacobPaulette/GCA-Sim/master/uploads/Convection_1.webm)
