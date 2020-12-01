@@ -24,6 +24,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+![Image](https://github.com/JacobPaulette/GGCA-Sim/master/uploads/DRCA-3.webm)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
